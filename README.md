@@ -1,128 +1,95 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4FACFE,100:00F2FE&text=Pritesh%20Patil&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Pritesh%20Patil&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=00F7FF&lines=Computer+Engineering+Student;Full+Stack+Developer;MERN+Stack+Developer;Next.js+Developer;AI+Application+Developer;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=00F7FF&lines=Computer+Engineering+Student;Full+Stack+Developer;AI+Enthusiast;Open+Source+Learner;Building+Projects+That+Matter"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212749695-0429a916-162c-4b10-a2f2-9c994a6f4e55.gif" width="650"/>
+<img width="450" src="https://user-images.githubusercontent.com/74038190/212749695-0429a916-162c-4b10-a2f2-9c994a6f4e55.gif"/>
 
 </div>
 
 ---
 
-# 👋 Hi, I'm Pritesh Patil
+# 👋 About Me
 
-💻 Computer Engineering Student
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/216656962-9f4cb4d7-6d65-4f72-9c1d-39d2ecf5db8f.gif"/>
 
-🚀 Full Stack Developer
+💻 Passionate Full Stack Developer
 
-🤖 AI Application Developer
+🚀 Love building scalable web applications
 
-🌍 Passionate about solving real-world problems through technology.
+🤖 Exploring AI-powered solutions
+
+🌱 Always learning new technologies
+
+⚡ I enjoy solving real-world problems through software.
+
+🎯 Goal: To become a Software Engineer who builds products that create impact.
+
+<br clear="right"/>
 
 ---
 
-# 💡 About Me
+# 🛠️ Tech Stack
 
-- 🚀 Full Stack Developer
-- 💻 Passionate about scalable web applications
-- 🌱 Currently exploring AI-powered SaaS applications
-- ⚡ Love building products that solve real-world problems
-- 🎯 Goal: Become an exceptional Software Engineer
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,react,nextjs,nodejs,express,mongodb,postgresql,git,github,docker,vscode,linux,postman&perline=9"/>
+
+</div>
+
+---
+
+# 🚀 Currently Exploring
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,docker,postgres,vercel,tailwind,typescript"/>
+
+</div>
+
+- 🤖 AI Applications
+- ☁️ Cloud Deployment
+- ⚙️ System Design
+- 🚀 SaaS Development
 
 ---
 
 # 🏆 Achievements
 
+<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/213760697-7c8d84e1-8c95-4d6f-a5df-5c9f0b3d25d1.gif"/>
+
 🥇 1st Prize — Xzibit National Level Project Competition
 
 🥇 1st Prize — AXIOM 2025 National Level Project Competition
 
-🥈 2nd Prize — TechFusion Expo 2025
+🥈 2nd Prize — TechFusion Expo
 
 🥉 3rd Prize — ASPIRIA 2.0 Web Designing Competition
 
 🏅 Winner — GeeksforGeeks Coding Quiz
 
----
-
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,react,nextjs,nodejs,express,mongodb,postgresql,docker,git,github,vscode,linux,postman&perline=9"/>
-
-</p>
+<br clear="right"/>
 
 ---
 
-# 🚀 Featured Projects
+# 💭 Developer Mindset
 
-## 🤖 SarthiAI
+```cpp
+while (!success)
+{
+    Learn();
+    Build();
+    Debug();
+    Improve();
+}
+```
 
-AI-powered B2B SaaS Support Platform
-
-⭐ Next.js 15
-
-⭐ Convex
-
-⭐ Clerk
-
-⭐ TypeScript
-
-⭐ AI Chat Widget
-
-⭐ RAG
-
-⭐ VAPI
+> **"Great software is built by people who never stop learning."**
 
 ---
 
-## 📈 DropNotify
-
-Smart Product Price Tracker
-
-⭐ Next.js
-
-⭐ PostgreSQL
-
-⭐ Firecrawl
-
-⭐ Supabase
-
-⭐ Brevo
-
-⭐ Google OAuth
-
----
-
-# 🌱 Currently Learning
-
-- Advanced Next.js
-- AI Integrations
-- Cloud Deployment
-- System Design
-- DevOps
-
----
-
-# 📜 Certifications
-
-🏅 C & C++ Programming
-
-🏅 MERN Stack Full Stack Development
-
----
-
-# 🎓 Education
-
-🎓 B.E Computer Engineering
-
-📍 Pillai HOC College of Engineering & Technology
-
----
-
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -142,6 +109,8 @@ Smart Product Price Tracker
 
 ---
 
+# 📈 Contribution Graph
+
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=priteshdev8767&theme=react-dark&hide_border=true"/>
@@ -150,9 +119,11 @@ Smart Product Price Tracker
 
 ---
 
+# 🐍 Contribution Snake
+
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=priteshdev8767&theme=algolia&no-frame=true&row=1&column=7"/>
+<img src="https://raw.githubusercontent.com/priteshdev8767/priteshdev8767/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
@@ -178,16 +149,8 @@ Smart Product Price Tracker
 
 ---
 
-<p align="center">
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=priteshdev8767&style=for-the-badge&color=blue"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient"/>
 
-</p>
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:4FACFE,100:00F2FE&text=Happy%20Coding!&fontSize=35&fontColor=ffffff"/>
-
-</p>
+</div>
