@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Pritesh%20Patil&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Pritesh%20Patil&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=00F7FF&lines=Computer+Engineering+Student;Full+Stack+Developer;AI+Enthusiast;Open+Source+Learner;Building+Projects+That+Matter"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;Full+Stack+Developer;MERN+Stack+Developer;AI+Enthusiast;Building+Scalable+Applications;Always+Learning+New+Technologies"/>
 
-<img width="450" src="https://user-images.githubusercontent.com/74038190/212749695-0429a916-162c-4b10-a2f2-9c994a6f4e55.gif"/>
+<img width="550" src="https://user-images.githubusercontent.com/74038190/212749695-0429a916-162c-4b10-a2f2-9c994a6f4e55.gif"/>
 
 </div>
 
@@ -12,21 +12,19 @@
 
 # 👋 About Me
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/216656962-9f4cb4d7-6d65-4f72-9c1d-39d2ecf5db8f.gif"/>
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/216656962-9f4cb4d7-6d65-4f72-9c1d-39d2ecf5db8f.gif"/>
 
-💻 Passionate Full Stack Developer
+### 🚀 Passionate about building products that solve real-world problems.
 
-🚀 Love building scalable web applications
+- 🎓 Computer Engineering Student
+- 💻 Full Stack Web Developer
+- ⚛️ MERN Stack & Next.js Developer
+- 🤖 Interested in AI-powered applications
+- 🌱 Always learning modern technologies
+- 🔥 Love turning ideas into reality through code
+- 🎯 Goal: Build impactful software and continuously grow as an engineer
 
-🤖 Exploring AI-powered solutions
-
-🌱 Always learning new technologies
-
-⚡ I enjoy solving real-world problems through software.
-
-🎯 Goal: To become a Software Engineer who builds products that create impact.
-
-<br clear="right"/>
+<br>
 
 ---
 
@@ -34,110 +32,71 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,react,nextjs,nodejs,express,mongodb,postgresql,git,github,docker,vscode,linux,postman&perline=9"/>
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python"/>
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql"/>
+
+### ☁️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,linux,postman"/>
 
 </div>
-
----
-
-# 🚀 Currently Exploring
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,docker,postgres,vercel,tailwind,typescript"/>
-
-</div>
-
-- 🤖 AI Applications
-- ☁️ Cloud Deployment
-- ⚙️ System Design
-- 🚀 SaaS Development
 
 ---
 
 # 🏆 Achievements
 
-<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/213760697-7c8d84e1-8c95-4d6f-a5df-5c9f0b3d25d1.gif"/>
+<div align="center">
 
-🥇 1st Prize — Xzibit National Level Project Competition
+<img width="350" src="https://user-images.githubusercontent.com/74038190/213760697-7c8d84e1-8c95-4d6f-a5df-5c9f0b3d25d1.gif"/>
 
-🥇 1st Prize — AXIOM 2025 National Level Project Competition
+</div>
 
-🥈 2nd Prize — TechFusion Expo
+🥇 **1st Prize** — Xzibit National Level Project Competition
 
-🥉 3rd Prize — ASPIRIA 2.0 Web Designing Competition
+🥇 **1st Prize** — AXIOM 2025 National Level Project Competition
 
-🏅 Winner — GeeksforGeeks Coding Quiz
+🥈 **2nd Prize** — TechFusion Expo
 
-<br clear="right"/>
+🥉 **3rd Prize** — ASPIRIA 2.0 Web Designing Competition
 
----
-
-# 💭 Developer Mindset
-
-```cpp
-while (!success)
-{
-    Learn();
-    Build();
-    Debug();
-    Improve();
-}
-```
-
-> **"Great software is built by people who never stop learning."**
+🏅 **Winner** — GeeksforGeeks Coding Quiz
 
 ---
 
-# 📊 GitHub Stats
+# 💬 Quote
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=priteshdev8767&show_icons=true&theme=tokyonight&hide_border=true"/>
+### 💡 *"Great software isn't built in a day. It's built one commit at a time."*
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priteshdev8767&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-</p>
-
----
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=priteshdev8767&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priteshdev8767&theme=react-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/priteshdev8767/priteshdev8767/output/github-contribution-grid-snake.svg"/>
-
-</p>
+</div>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/priteshdev8767">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -145,7 +104,7 @@ while (!success)
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-</p>
+</div>
 
 ---
 
