@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&text=Pritesh%20Patil&fontSize=55&fontColor=ffffff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Pritesh%20Patil&fontAlign=50&fontAlignY=40&fontSize=55&animation=twinkling&color=gradient"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=900&color=00F7FF&lines=Full+Stack+Developer;Computer+Engineering+Student;MERN+%7C+Next.js+Developer;AI+Enthusiast;Building+Modern+Applications;Always+Learning+🚀"/>
-
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+%7C+Next.js+Developer;AI+Enthusiast;Building+Scalable+Applications;Always+Learning+🚀"/>
 
 <img width="700" src="https://user-images.githubusercontent.com/74038190/212749695-0429a916-162c-4b10-a2f2-9c994a6f4e55.gif"/>
 
@@ -12,56 +10,35 @@
 
 ---
 
-# 👋 About Me
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/216655810-d2f59d96-3b4d-4d71-9f6b-1c6f6d8d7d1d.gif"/>
+## 👨‍💻 About Me
 
-```yaml
-Name        : Pritesh Patil
-Role        : Full Stack Developer
-Education   : B.E Computer Engineering
-Focus       : MERN • Next.js • AI
-Passion     : Building scalable software
-Currently   : Learning & Building Every Day
-```
+<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/216655810-d2f59d96-3b4d-4d71-9f6b-1c6f6d8d7d1d.gif"/>
 
-<br>
+🚀 Full Stack Developer
+
+🎓 Computer Engineering Student
+
+💡 Passionate about AI & Modern Web Technologies
+
+⚡ Building scalable applications
+
+🌱 Always learning something new
 
 ---
 
-# ⚡ Tech Stack
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png">
+
+## ⚙️ Tech Stack
 
 <div align="center">
 
-### Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,react,nextjs,nodejs,express,mongodb,postgres,docker,git,github,vscode,linux&perline=8"/>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript"/>
+</div>
 
-<br>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
-
-<br>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
-<br>
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres"/>
-
-<br>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,linux,postman"/>
-
-<br><br>
+<div align="center">
 
 <img width="500" src="https://user-images.githubusercontent.com/74038190/216656962-9f4cb4d7-6d65-4f72-9c1d-39d2ecf5db8f.gif"/>
 
@@ -69,13 +46,11 @@ Currently   : Learning & Building Every Day
 
 ---
 
-# 🏆 Achievements
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+## 🏆 Achievements
 
 <div align="center">
-
-<img width="250" src="https://user-images.githubusercontent.com/74038190/213760697-7c8d84e1-8c95-4d6f-a5df-5c9f0b3d25d1.gif"/>
-
-</div>
 
 🥇 Xzibit National Level Project Competition
 
@@ -87,11 +62,17 @@ Currently   : Learning & Building Every Day
 
 🏅 GeeksforGeeks Coding Quiz Winner
 
+<br><br>
+
+<img width="250" src="https://user-images.githubusercontent.com/74038190/213760697-7c8d84e1-8c95-4d6f-a5df-5c9f0b3d25d1.gif"/>
+
+</div>
+
 ---
 
 <div align="center">
 
-## 💬 Developer Quote
+## 💬 Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
@@ -99,20 +80,18 @@ Currently   : Learning & Building Every Day
 
 ---
 
-# 🌐 Connect With Me
-
 <div align="center">
 
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
 <a href="https://github.com/priteshdev8767">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:pritesh.patil8983@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
